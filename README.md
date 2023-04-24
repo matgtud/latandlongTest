@@ -10,4 +10,6 @@ This project consists in 2 folders, one for HP and other for a sample subdomain 
 - Footer is not consistent between the application, therefore footer test wont work on 
   '/User Login' page
 
+- To install cypress: npm install cypress --save-dev
+
 **Note:** If you run out of free trial, some tests wont work unless you have a paid subscription.
